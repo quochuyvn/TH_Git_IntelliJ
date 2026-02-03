@@ -5,6 +5,7 @@ public class FirstClass {
         System.out.println("Hello, Push directly from main!!!");
         System.out.println("Hello, Pull Request Develop!!!");
         System.out.println("Git Stash 01");
+        System.out.println("Git Rebase Main 01");
 
     }
 
